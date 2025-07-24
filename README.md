@@ -1,6 +1,8 @@
 # adventure-shit-navigation-page
 提供关于adventure-x黑客放轻松和Shit的二创网站导航
 
+# 我建议你下载到本地观看
+
 ## 相关文档
 - [文案文档](./README-Word.md)
 - [图片文档](./Image/README-IMG.md)

@@ -6,19 +6,19 @@
 # 网站列表
 警告标志生成: https://github.com/tianxiu2b2t/AdventureX-2025-Warning-Signs
 
-警告标志生成器(非官方): sexygenerator.vercel.app
+警告标志生成器(非官方): https://sexygenerator.vercel.app
 
-Expo倒计时(非官方): advxc.orangestd.cn
+Expo倒计时(非官方): https://advxc.orangestd.cn
 
-United Portal: united.adventure-x.org
+United Portal: https://united.adventure-x.org
 
-Live: live.adventure-x.org
+Live: https://live.adventure-x.org
 
-终极测试: united.adventure-x.org/zh/final-test
+终极测试: https://united.adventure-x.org/zh/final-test
 
-dev: dev.adventure-x.org
+dev: http://dev.adventure-x.org
 
-终极指南(无需权限): adventurex.feishu.cn/docx/Dv6fdrGXeoqXywxsVbTcrIjonTe
+终极指南(无需权限): https://adventurex.feishu.cn/docx/Dv6fdrGXeoqXywxsVbTcrIjonTe
 
 ## 相关文档
 - [文案文档](./README-Word.md)

@@ -4,6 +4,8 @@
 # 我建议你下载到本地观看
 
 # 网站列表
+警告标志生成: https://github.com/tianxiu2b2t/AdventureX-2025-Warning-Signs
+
 警告标志生成器(非官方): sexygenerator.vercel.app
 
 Expo倒计时(非官方): advxc.orangestd.cn

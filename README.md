@@ -25,6 +25,8 @@ dev: http://dev.adventure-x.org
 - [图片文档](./Image/README-IMG.md)
 
 # 选手自制的网页和项目仓库
+https://platform.cyclens.tech/activity/4
+
 https://www.shitx.top
 
 http://shenjack.top:5520/plugins/siyuan-blog/app/#/s/20250724154514-g4h74ob

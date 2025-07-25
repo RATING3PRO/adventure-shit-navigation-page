@@ -3,11 +3,24 @@
 
 # 我建议你下载到本地观看
 
+# 网站列表
+Expo倒计时(非官方): advxc.orangestd.cn
+
+United Portal: united.adventure-x.org
+
+Live: live.adventure-x.org
+
+终极测试: united.adventure-x.org/zh/final-test
+
+dev: dev.adventure-x.org
+
+终极指南(无需权限): adventurex.feishu.cn/docx/Dv6fdrGXeoqXywxsVbTcrIjonTe
+
 ## 相关文档
 - [文案文档](./README-Word.md)
 - [图片文档](./Image/README-IMG.md)
 
-
+# 选手自制的网页和项目仓库
 https://www.shitx.top
 
 http://shenjack.top:5520/plugins/siyuan-blog/app/#/s/20250724154514-g4h74ob

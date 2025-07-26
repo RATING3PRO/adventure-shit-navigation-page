@@ -47,4 +47,4 @@ https://www.npmjs.com/package/@adventure-x/shit
 
 https://github.com/Red-Killer/shit/issues/913
 
-http://shitventure-x.com
+https://game.shitventure-x.com

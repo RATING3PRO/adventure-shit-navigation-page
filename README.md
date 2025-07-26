@@ -50,3 +50,7 @@ https://github.com/Red-Killer/shit/issues/913
 https://game.shitventure-x.com
 
 https://pypi.org/project/advx-shit-offline/
+
+https://pypi.org/project/adventurex-shit/
+
+https://pypi.org/project/adventure-x-shitventure/

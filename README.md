@@ -48,3 +48,5 @@ https://www.npmjs.com/package/@adventure-x/shit
 https://github.com/Red-Killer/shit/issues/913
 
 https://game.shitventure-x.com
+
+https://pypi.org/project/advx-shit-offline/

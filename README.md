@@ -43,6 +43,8 @@ https://shitx.vercel.app/
 
 https://github.com/luokerenx4/shitx
 
+https://o96wu9sncp.feishu.cn/wiki/PE41wbhv3ilXKPkGScgcSjUpnPG
+
 https://www.npmjs.com/package/@adventure-x/shit
 
 https://github.com/Red-Killer/shit/issues/913

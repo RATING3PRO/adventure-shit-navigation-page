@@ -8,6 +8,8 @@
 
 警告标志生成器(非官方): https://sexygenerator.vercel.app
 
+禁止通行公告生成工具(非官方): https://disqualified.nichijou.moe
+
 Expo倒计时(非官方): https://advxc.orangestd.cn
 
 United Portal: https://united.adventure-x.org

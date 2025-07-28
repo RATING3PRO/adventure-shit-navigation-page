@@ -7,7 +7,8 @@
 警告标志生成: https://github.com/tianxiu2b2t/AdventureX-2025-Warning-Signs
 
 警告标志生成器(非官方): https://sexygenerator.vercel.app
-https://disqualified.nichijou.moe
+
+禁止通行公告生成工具(非官方): https://disqualified.nichijou.moe
 
 Expo倒计时(非官方): https://advxc.orangestd.cn
 

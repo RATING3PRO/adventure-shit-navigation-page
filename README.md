@@ -56,3 +56,5 @@ https://pypi.org/project/advx-shit-offline/
 https://pypi.org/project/adventurex-shit/
 
 https://pypi.org/project/adventure-x-shitventure/
+
+shitventure-x.com

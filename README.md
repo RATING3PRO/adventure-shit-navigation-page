@@ -6,6 +6,8 @@
 # 网站列表
 警告标志生成: https://github.com/tianxiu2b2t/AdventureX-2025-Warning-Signs
 
+神秘标牌生成器: https://yw.app/C8rEIZk
+
 警告标志生成器(非官方): https://sexygenerator.vercel.app
 
 禁止通行公告生成工具(非官方): https://disqualified.nichijou.moe

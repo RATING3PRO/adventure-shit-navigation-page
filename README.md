@@ -4,6 +4,13 @@
 # 我建议你下载到本地观看
 
 # 网站列表
+
+神农TV之危机合约净罪作战 -这是中国最大的非营利性黑客松主办人Ryan，你敢和他对视三秒钟吗: https://mp.weixin.qq.com/s/lFJbDw6_tg0aRQBNL9ex3w
+
+神农TV续集之朱少爷的无终奇语: https://mp.weixin.qq.com/s/I-EYU_qF3I6NXB8fxz5v2w
+
+Advx合订本: https://t.me/adventurex_book
+
 警告标志生成: https://github.com/tianxiu2b2t/AdventureX-2025-Warning-Signs
 
 神秘标牌生成器: https://yw.app/C8rEIZk

@@ -5,9 +5,12 @@
 
 # 网站列表
 
-神农TV之危机合约净罪作战 -这是中国最大的非营利性黑客松主办人Ryan，你敢和他对视三秒钟吗: https://mp.weixin.qq.com/s/lFJbDw6_tg0aRQBNL9ex3w
+来自X @imPrk_ 老师的合订本: https://drive.google.com/file/d/1C6GTU3V_RubGzamnCaS4q7Vxt2s68DXi
+来自X @imPrk_ 老师合订本的官方推文: https://x.com/imPrk_/status/1951401509406790071
 
-神农TV续集之朱少爷的无终奇语: https://mp.weixin.qq.com/s/I-EYU_qF3I6NXB8fxz5v2w
+神农TV之危机合约净罪作战 -这是中国最大的非营利性黑客松主办人Ryan，你敢和他对视三秒钟吗(失效): https://mp.weixin.qq.com/s/lFJbDw6_tg0aRQBNL9ex3w
+
+神农TV续集之朱少爷的无终奇语(失效): https://mp.weixin.qq.com/s/I-EYU_qF3I6NXB8fxz5v2w
 
 Advx合订本: https://t.me/adventurex_book
 
